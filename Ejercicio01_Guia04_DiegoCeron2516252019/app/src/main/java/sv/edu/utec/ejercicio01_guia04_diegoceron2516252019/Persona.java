@@ -1,8 +1,8 @@
 package sv.edu.utec.ejercicio01_guia04_diegoceron2516252019;
 
-public class Personas {
+public class Persona {
 
-    public Personas(String nombre, char genero) {
+    public Persona(String nombre, char genero) {
         this.nombre=nombre;
         this.genero=genero;
     }
